@@ -1,3 +1,13 @@
+# 📊 SQL Select Fundamentals — TechStore
+
+Repositorio creado para la práctica de consultas básicas en SQL orientadas al análisis de datos y la comunicación con stakeholders del área de finanzas.
+
+## Estructura del Repositorio
+```text
+sql-select-fundamentals/
+├── consultas_basicas.sql
+└── README.md
+
 # sql-select-fundamentals-
 
 1. ¿Por qué es mala práctica usar SELECT * en producción?
